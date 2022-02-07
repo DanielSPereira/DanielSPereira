@@ -1,4 +1,4 @@
-## Olá! Me chamo Daniel e sou apaixonado por tecnologia e desenvolvimento.
+## My short-term goal is to become a fullstack developer. I am currently studying React, Vue, React Native and Node to become a fullstack developer, specialist at front-end. Simplifying the work and code to make it user-friendly and facilitating communication is what I like.
 <div align="center">
   <a href="https://github.com/DanielSPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
