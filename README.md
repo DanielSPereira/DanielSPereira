@@ -1,4 +1,5 @@
-## Sou desenvolvedor com vasta experiência em projetos complexos. Atuo na área de ensino sendo instrutor front-end na Kenzie Academy. Atuei em diversos mercados profissionalmente (blockchains, erps, marketplaces, ensino e web3).
+## Sou desenvolvedor com vasta experiência em projetos complexos. Atuo na área de ensino sendo instrutor front-end na Kenzie Academy. Atuei em diversos mercados profissionalmente (blockchains, erps, marketplaces, ensino e web3). No momento estou aprimorando meus conhecimentos voltados para área de segurança da informação.
+
 
 <div align="center">
   <a href="https://github.com/DanielSPereira">
