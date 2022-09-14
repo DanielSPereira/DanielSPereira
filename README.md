@@ -1,4 +1,5 @@
-## Sou Desenvolvedor com amplo conhecimento em tecnológia, Desenvolvedor Front-end Pleno, Desenvolvedor Full Stack e entusiasta na área de segurança. No ano de 2021 obtive a experiência no mercado de ERP desenvolvendo um framework para integração com a Sankhya Gestão de Negócios. Do final de 2021 aos dias atuais venho liderando a equipe de desenvolvimento utilizando Metodologia Ágil na criação de soluções voltadas ao mundo Cripto, desde Games NFT à exchanges próprias da empresa.
+## Sou desenvolvedor com vasta experiência em projetos complexos. Atuo na área de ensino sendo instrutor front-end na Kenzie Academy. Atuei em diversos mercados profissionalmente (blockchains, erps, marketplaces, ensino e web3). No momento estou aprimorando meus conhecimentos para me tornar arquiteto de segurança.
+
 <div align="center">
   <a href="https://github.com/DanielSPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielSPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
