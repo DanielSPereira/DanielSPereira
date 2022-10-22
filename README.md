@@ -1,4 +1,4 @@
-## Sou desenvolvedor com vasta experiência em projetos complexos. Atuo na área de ensino sendo instrutor front-end na Kenzie Academy. Atuei em diversos mercados profissionalmente (blockchains, erps, marketplaces, ensino e web3). No momento estou aprimorando meus conhecimentos voltados para área de segurança da informação.
+## Full stack developer focused on the front end, working with the javascript stack since 2018 following best practices. Among some highlights are Nextjs, Typescript, Nodejs, and TDD. I have already participated in web3 implementations for an nfts marketplace, creating a customized ERP for an educational and financial unit, creating decentralized exchanges and an EAD system. Currently, I work in the area of ​​technology teaching instructing on good practices, and tutoring new developers introducing the most used technologies in the market.
 
 
 <div align="center">
