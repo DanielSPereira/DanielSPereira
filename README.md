@@ -1,4 +1,4 @@
-## Full stack developer focused on the front end, working with the javascript stack since 2018 following best practices. Among some highlights are Nextjs, Typescript, Nodejs, and TDD. I have already participated in web3 implementations for an nfts marketplace, creating a customized ERP for an educational and financial unit, creating decentralized exchanges and an EAD system. Currently, I work in the area of ​​technology teaching instructing on good practices, and tutoring new developers introducing the most used technologies in the market.
+## I am currently working on the most revolutionary project in the mortgage industry based in the USA. I'm leading the transition of the Front-end UI library and implementing WAI-ARIA standards to support accessibility.
 
 
 <div align="center">
