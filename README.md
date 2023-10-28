@@ -1,6 +1,8 @@
 # Hi, I am Daniel.
 
-### I am currently working on the most revolutionary project in the mortgage industry based in the USA. I'm leading the transition of the Front-end UI library, implementing WAI-ARIA standards to support accessibility, and completing my daily tasks.
+### I am a proud front-end engineer innovating the mortgage industry in the United States alongside Wilqo.
+
+### As a front-end engineer at Wilqo, my roles involves architecting and planning new system features, translating requirements and designs into robust and intuitive implementations, and working closely with the team to craft exceptional user experiences.
 
 <br/>
 
